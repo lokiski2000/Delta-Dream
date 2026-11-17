@@ -1,0 +1,6 @@
+{
+  "name": "deltadream",
+  "description": "Android-style interval and random-range audio player for dream cues, meditation, and timed sound reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
