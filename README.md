@@ -4,6 +4,12 @@ Delta Dream is an app designed (by AI) to make practicing CANWILD (Custom Alarm 
 
 By automating timed, customizable audio cues while you sleep, Delta Dream helps you trigger lucidity without needing to wake up and manually turn off an alarm.
 
+How to download
+
+Download at https://deltadream.ai.studio/
+
+Click Install 
+
 🚀 How to Use
 
 Download and install the app.
